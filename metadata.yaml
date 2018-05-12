@@ -1,0 +1,27 @@
+_repo: The-Brochure-Series-of-Architectural-IllustrationVol-1-No.-9-1895_25735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: The Brochure Series of Architectural Illustration
+gutenberg_issued: '2008-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- Periodicals'
+- !lcc 'NA'
+title: "The Brochure Series of Architectural Illustration, Vol. 01, No. 09 1895\r\n\
+  Pulpits of Southern Italy"
+url: http://www.gutenberg.org/ebooks/25735
